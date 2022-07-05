@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/mathepia.ico', // 浏览器tab网站logo
-  organizationName: 'Mathepia', // Usually your GitHub org/user name.
+  organizationName: 'Mathepia.github.io', // Usually your GitHub org/user name.
   projectName: 'Mathepia', // Usually your repo name.
 
   presets: [
