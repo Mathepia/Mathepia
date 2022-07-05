@@ -4,29 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Working Projects',
+    title: 'Toolbox',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Milestones and description of projects working on. 
+        User friendly spatial and temporal data mining toolboox including SOTA epi models, inference methods, optimal control methods.
       </>
     ),
   },
   {
-    title: 'Projects Collections',
+    title: 'Projects',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Project Collections
+        Mathepia garthers many research projects and give detailed descritions for these projects.
       </>
     ),
   },
   {
-    title: 'My Projects',
+    title: 'Next Generation',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Mathepia Projects
+        Mathepia provide many tutorials for eduction on next generation.
       </>
     ),
   },

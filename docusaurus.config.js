@@ -9,7 +9,7 @@ const config = {
   title: 'Mathepia Ecosystem', //网站名字
   tagline: 'Mathematical Epidemiology and Deep Learning, Python and Julia',
   url: 'https://Mathepia.github.io/', // 基准网站
-  baseUrl: '/mathepiadoc', //网站子名字
+  baseUrl: '/mathepiadoc/', //网站子名字
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/mathepia.ico', // 浏览器tab网站logo
