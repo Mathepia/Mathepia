@@ -9,12 +9,12 @@ const config = {
   title: 'Mathepia Ecosystem', //网站名字
   tagline: 'Mathematical Epidemiology and Deep Learning, Python and Julia',
   url: 'https://Mathepia.github.io/', // 基准网站
-  baseUrl: '/', //网站子名字
+  baseUrl: '/mathepiadoc', //网站子名字
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/mathepia.ico', // 浏览器tab网站logo
-  organizationName: 'Mathepia.github.io', // Usually your GitHub org/user name.
-  projectName: 'Mathepia', // Usually your repo name.
+  organizationName: 'Mathepia', // Usually your GitHub org/user name.
+  projectName: 'mathepiadoc', // Usually your repo name.
 
   presets: [
     [
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/Mathepia/Mathepia.github.io',
+          editUrl: 'https://github.com/Mathepia/mathepiadoc',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/Mathepia/Mathepia.github.io',
+            'https://github.com/Mathepia/mathepiadoc',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Mathepia Packages Systems',
-                href: 'https://github.com/Song921012/Mathepia.jl',
+                href: 'https://github.com/Mathepia/Mathepia.jl',
               },
             ],
           },
