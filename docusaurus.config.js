@@ -66,7 +66,7 @@ const config = {
               },
               {
                 label: 'MathEpiDeepLearning',
-                href: 'https://song921012.github.io/MathEpiDeepLearning/',
+                href: 'https://JuliaEpi.github.io/MathEpiDeepLearning/',
               },
               {
                 label: 'Mathepia Programs',
