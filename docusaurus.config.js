@@ -101,8 +101,16 @@ const config = {
                 href: 'https://github.com/Mathepia',
               },
               {
+                label: 'XJTUAI4Science Group',
+                href: 'https://github.com/XJTUAI4Science',
+              },
+              {
                 label: 'Mathepia Packages Systems',
                 href: 'https://github.com/Mathepia/Mathepia.jl',
+              },
+              {
+                label: 'JuliaEpi Organizations',
+                href: 'https://github.com/JuliaEpi',
               },
             ],
           },
