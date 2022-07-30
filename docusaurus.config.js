@@ -85,7 +85,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-            href: 'https://github.com/Song921012/MathEpiDeepLearning',
+            href: 'https://github.com/JuliaEpi/MathEpiDeepLearning',
             label: 'Resources',
           },{
                 label: 'MathepiaPrograms',
