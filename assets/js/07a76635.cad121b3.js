@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[949],{5775:function(e){e.exports=JSON.parse('{"welcome":{"allTagsPath":"/Mathepia/blog/tags","name":"welcome","count":2,"permalink":"/Mathepia/blog/tags/welcome"},"review":{"allTagsPath":"/Mathepia/blog/tags","name":"review","count":2,"permalink":"/Mathepia/blog/tags/review"}}')}}]);

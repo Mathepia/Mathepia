@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[412],{2387:function(e){e.exports=JSON.parse('{"allTagsPath":"/mathepiadoc/blog/tags","name":"review","count":2,"permalink":"/mathepiadoc/blog/tags/review"}')}}]);
