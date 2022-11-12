@@ -59,19 +59,19 @@ const config = {
             position: 'left',
             label: 'Documents',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
-                label: 'Mathepia',
-                href: 'https://github.com/Mathepia',
-              },
-              {
-                label: 'MathEpiDeepLearning',
-                href: 'https://JuliaEpi.github.io/MathEpiDeepLearning/',
-              },
-              {
-                label: 'Mathepia Programs',
-                href: 'https://mathepia.github.io/MathepiaPrograms/',
-              },
+            label: 'Mathepia',
+            href: 'https://github.com/Mathepia',
+          },
+          {
+            label: 'awesome-sciml',
+            href: 'https://mathepia.github.io/awesome-sciml/',
+          },
+          {
+            label: 'Mathepia Programs',
+            href: 'https://mathepia.github.io/MathepiaPrograms/',
+          },
         ],
       },
       footer: {
@@ -85,9 +85,9 @@ const config = {
                 to: '/docs/intro',
               },
               {
-            href: 'https://github.com/JuliaEpi/MathEpiDeepLearning',
-            label: 'Resources',
-          },{
+                href: 'https://github.com/Mathepia/awesome-sciml',
+                label: 'Resources',
+              }, {
                 label: 'MathepiaPrograms',
                 href: 'https://github.com/Mathepia/MathepiaPrograms',
               },
